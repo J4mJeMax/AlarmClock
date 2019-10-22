@@ -1,2 +1,4 @@
 # AlarmClock
-Alarm clock using JS, CSS3, HTML5
+Alarm clock, that is showing actual date
+Stack :
+JS, CSS3, HTML5
